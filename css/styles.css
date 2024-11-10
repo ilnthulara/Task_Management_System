@@ -1,0 +1,10 @@
+/* Default gradient background for all pages */
+body{
+	font-family: "Funnel Display", sans-serif;
+}
+
+.default-page {
+    background: linear-gradient(to top, #d7bde2 0%, #f9ebea 100%);
+    min-height: 100vh;
+    margin: 0;
+}
